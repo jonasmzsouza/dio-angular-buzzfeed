@@ -7,6 +7,16 @@
 }
 
 body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 16px;
 	background-color: #1F1147;
 	color: antiquewhite;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	cursor: pointer;
 }
