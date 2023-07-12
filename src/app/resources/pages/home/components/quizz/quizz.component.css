@@ -48,6 +48,7 @@
 	min-height: 50px;
 	background-color: transparent;
 	font-size: 1rem;
+	font-weight: 700;
 	color: antiquewhite;
 	border: 1px solid #1ed35d;
 	border-radius: 5px;
@@ -87,6 +88,9 @@
 	font-size: 1.5rem;
 }
 
+.quizz__results p {
+	color: #1ed35d;
+}
 
 @media (min-width: 576px) {
 	.quizz__container {

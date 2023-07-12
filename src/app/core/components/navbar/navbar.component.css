@@ -20,7 +20,6 @@
 }
 
 .navbar__brand {
-	height: 100%;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -30,11 +29,12 @@
 }
 
 .navbar__brand a {
-	height: 100%;
+	display: flex;
 }
 
 .navbar__brand img {
 	width: 100%;
+	margin: auto;
 }
 
 .navbar__collapse {
